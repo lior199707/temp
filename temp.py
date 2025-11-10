@@ -1,2 +1,3 @@
 print(5)
-print(20)
+print(30)
+print(10)
